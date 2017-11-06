@@ -1,0 +1,3 @@
+#gitignore
+#backup folder can be excluded
+settings.php
